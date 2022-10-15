@@ -1,0 +1,15 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 group-title="GRUPO" tvg-id="EPG-ID" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,CANAL 1 Test 
+http://127.0.0.1:6878/ace/getstream?id=1234567890123456789012345678901234567890
+#EXTINF:-1 group-title="GRUPO" tvg-id="EPG-ID" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,CANAL 2 Test
+http://127.0.0.1:6878/ace/getstream?id=1234567890123456789012345678901234567890
+#EXTINF:-1 group-title="GRUPO" tvg-id="EPG-ID" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,CANAL 3 Test
+http://127.0.0.1:6878/ace/getstream?id=1234567890123456789012345678901234567890
+#EXTINF:-1 group-title="GRUPO" tvg-id="EPG-ID" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,CANAL 4 Test
+http://127.0.0.1:6878/ace/getstream?id=1234567890123456789012345678901234567890
+#EXTINF:-1 group-title="GRUPO" tvg-id="EPG-ID" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,CANAL 5 Test
+http://127.0.0.1:6878/ace/getstream?id=1234567890123456789012345678901234567890
+#EXTINF:-1 group-title="GRUPO" tvg-id="EPG-ID" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,CANAL 6 Test
+http://127.0.0.1:6878/ace/getstream?id=1234567890123456789012345678901234567890
+#EXTINF:-1 group-title="GRUPO" tvg-id="EPG-ID" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,CANAL 7 Test
+http://127.0.0.1:6878/ace/getstream?id=1234567890123456789012345678901234567890
