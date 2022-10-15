@@ -73,8 +73,10 @@ http://127.0.0.1:6878/ace/getstream?id=3d783550706c36af82b5dc053bbf4170173da4c2
 http://127.0.0.1:6878/ace/getstream?id=f27a8df4c15bdc1ff616d8c4fa439a66aa5608f1
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 (a*)
 http://127.0.0.1:6878/ace/getstream?id=928a24e58c7a9d53cc1296107eaae6cc204282ca
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #5 SIN EMISIÓN (j*)
-http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #5 (j*)
+http://127.0.0.1:6878/ace/getstream?id=1aaa3093a41f3ef1dd1edcd95f84b2677402cbe2
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #6 (j*)
+http://127.0.0.1:6878/ace/getstream?id=ed1e0f930611df57577134af04ef84f425aff33b
 #EXTINF:-1 group-title="M+ Deportes" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,ELLAS #V
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080
