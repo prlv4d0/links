@@ -74,9 +74,9 @@ http://127.0.0.1:6878/ace/getstream?id=bc04ba376d2b410b3890f7991412f51bc26852f4
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 (m*)
 http://127.0.0.1:6878/ace/getstream?id=7edb9f13ab3db3c2dadf631d2999309abaa2d3b2
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 (a*)
-http://127.0.0.1:6878/ace/getstream?id=167e3b44a520cd76d4372f6d30fe6d7ccd524175
+http://127.0.0.1:6878/ace/getstream?id=b5214a3b7fbf158bdd1a6ee317417cba7c6af13d
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #5 (a*)
-http://127.0.0.1:6878/ace/getstream?id=d5108b0f0da7ba7d60d5e94ff4e43deb64185dae
+http://127.0.0.1:6878/ace/getstream?id=b3838f8e9b0e4115eac182bd02ec99c7d1b10f58
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #6 (j*)
 http://127.0.0.1:6878/ace/getstream?id=48a7a7b8830d1190a498c1b316d63598bb7a653c
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #7 (j*)
