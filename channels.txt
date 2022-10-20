@@ -63,6 +63,12 @@ http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccf
 http://127.0.0.1:6878/ace/getstream?id=d475208e72b5a343080afa0724c7b7c42264b9a0
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,Smartbank 3 720
 http://127.0.0.1:6878/ace/getstream?id=1000c018cf4afb7357f10e438e966d23340e4295
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,Barsa VS Villareal 1080
+http://127.0.0.1:6878/ace/getstream?id=b5214a3b7fbf158bdd1a6ee317417cba7c6af13d
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,Barsa Villareal 720
+http://127.0.0.1:6878/ace/getstream?id=b3838f8e9b0e4115eac182bd02ec99c7d1b10f58
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,Barcelona - Villarreal 
+http://127.0.0.1:6878/ace/getstream?id=8a72010856f27010d03b0e763f4a3d6f02842179
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 1080
 http://127.0.0.1:6878/ace/getstream?id=01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,LaLiga Tv Bar 720
@@ -115,8 +121,6 @@ http://127.0.0.1:6878/ace/getstream?id=91dce080463a5c6ee931fc5489a75ab54a5cb071
 http://127.0.0.1:6878/ace/getstream?id=87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,MOVISTAR DEPORTES
 http://127.0.0.1:6878/ace/getstream?id=d580d53613be09c7a5388d808509f6c97ec07df2
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M.Deportes
-http://127.0.0.1:6878/ace/getstream?id=7edb9f13ab3db3c2dadf631d2999309abaa2d3b2
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 1080
 http://127.0.0.1:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,# Vamos 720
