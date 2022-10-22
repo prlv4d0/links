@@ -72,15 +72,29 @@ acestream://23e5a75b8cbd6db63ed608f7b3da1383ee6ba301
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #2 (m*)
 acestream://bc04ba376d2b410b3890f7991412f51bc26852f4
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 (m*)
-acestream://7edb9f13ab3db3c2dadf631d2999309abaa2d3b2
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 (a*)
-acestream://b5214a3b7fbf158bdd1a6ee317417cba7c6af13d
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #5 (a*)
-acestream://b3838f8e9b0e4115eac182bd02ec99c7d1b10f58
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #6 (j*)
-acestream://48a7a7b8830d1190a498c1b316d63598bb7a653c
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #7 (j*)
-acestream://fcf590931ee6958ed899f45c6790e44a228b5c82
+acestream://b5c1f89712d4d5312647c8410f8dd40e12a3b73f
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 (m*)
+acestream://8100d8f6f91008535b64927368f005fd9febb449
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #5 (m*)
+acestream://8890157bd24ea1be25dc765fc9b6fe46268788d1
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #6 (m*)
+acestream://607289717b0bc6ba69ee1ce5f0dc6f718c3d9248
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #7 (m*)
+acestream://b1fda14721e34188fecbd20f1b2e6bd09a3ead0b
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #8 (m*)
+acestream://218f3f2423d25464f24e43ae55e5846122f93801
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #9 (m*)
+acestream://d2b89d5109f73cdd4ce1322bec6b82fa0375d12f
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #10 (a*)
+acestream://8890157bd24ea1be25dc765fc9b6fe46268788d1
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #11 (a*)
+acestream://607289717b0bc6ba69ee1ce5f0dc6f718c3d9248
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #12 (j*)
+acestream://b1fda14721e34188fecbd20f1b2e6bd09a3ead0b
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #13 (j*)
+acestream://218f3f2423d25464f24e43ae55e5846122f93801
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #14 (j*)
+acestream://d2b89d5109f73cdd4ce1322bec6b82fa0375d12f
 #EXTINF:-1 group-title="M+ Deportes" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,ELLAS #V
 acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080
