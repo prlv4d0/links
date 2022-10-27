@@ -195,3 +195,5 @@ http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 http://127.0.0.1:6878/ace/getstream?id=0000000000000000000000000000000000000001
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TEST SIN EMISIÓN 2
 http://127.0.0.1:6878/ace/getstream?id=0000000000000000000000000000000000000002
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TEST SIN EMISIÓN 3
+http://127.0.0.1:6878/ace/getstream?id=0000000000000000000000000000000000000003
