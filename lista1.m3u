@@ -67,16 +67,16 @@ acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
 acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2
 acestream://b12bd6f32bbd53a2bbf182a30549fbdf747235cd
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #1 (m*)
-acestream://72874bb385a8bed54f43ef45912637219ca5ab81
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #2 (m*)
-acestream://49c35606668ebf7a895434ec4c9243a163d87718
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 (m*)
-acestream://f2b785193cfa99c581287be39e2fb5a73827957b
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 (m*)
-acestream://f2b785193cfa99c581287be39e2fb5a73827957b
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #5 (m*)
-acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #1 SIN EMISIÓN (m*)
+acestream://
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #2 SIN EMISIÓN (m*)
+acestream://
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 SIN EMISIÓN (m*)
+acestream://
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 SIN EMISIÓN (m*)
+acestream://
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #5 SIN EMISIÓN (m*)
+acestream://
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #6 SIN EMISIÓN (m*)
 acestream://
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #7 SIN EMISIÓN (m*)
