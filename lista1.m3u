@@ -5,6 +5,8 @@ acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 acestream://
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,EVENTO 4K #2 SIN EMISIÓN (j*)
 acestream://
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,EVENTO 4K #3
+acestream://39d1c3deb93d7d87ce6682dba4a5b1fc38af42bb
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720
