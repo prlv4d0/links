@@ -67,10 +67,10 @@ http://127.0.0.1:6878/ace/getstream?id=1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 http://127.0.0.1:6878/ace/getstream?id=b12bd6f32bbd53a2bbf182a30549fbdf747235cd
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #1 (m*)
 http://127.0.0.1:6878/ace/getstream?id=08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #2 (m*)
-http://127.0.0.1:6878/ace/getstream?id=597e723782fad1d0268ff30284f8db649bd0ce02
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 (m*)
-http://127.0.0.1:6878/ace/getstream?id=cd2592d8ab8bc0608e9c69e1b864132ffbd0bb73
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #2 SIN EMISIÓN (m*)
+http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 SIN EMISIÓN (m*)
+http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 SIN EMISIÓN (m*)
 http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #5 SIN EMISIÓN (m*)
@@ -87,12 +87,12 @@ http://127.0.0.1:6878/ace/getstream?id=
 http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #11 SIN EMISIÓN (a*)
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #12 (j*)
-http://127.0.0.1:6878/ace/getstream?id=a678fa6333c5b7e7ba6f36ea315e3e8ad4030549
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #13 (j*)
-http://127.0.0.1:6878/ace/getstream?id=350f17dff200c7b5a02bfef785efd9a90a766bc8
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #14 (j*)
-http://127.0.0.1:6878/ace/getstream?id=5424badb8cd5a9a029afcdf98c2fb38f8d7ee165
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #12 SIN EMISIÓN (j*)
+http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #13 SIN EMISIÓN (j*)
+http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #14 SIN EMISIÓN (j*)
+http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1 group-title="M+ Deportes" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,ELLAS #V
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080
