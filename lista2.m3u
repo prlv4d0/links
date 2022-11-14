@@ -3,8 +3,6 @@
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,SIN EMISIÓN
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,F1
-http://127.0.0.1:6878/ace/getstream?id=0dcde887b5535bd4c19c8f565b945e37ffcab0ab
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
 http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720
@@ -57,13 +55,13 @@ http://127.0.0.1:6878/ace/getstream?id=f8a77a75bf7572e360556339794d3d13fca8caa9
 http://127.0.0.1:6878/ace/getstream?id=1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2
 http://127.0.0.1:6878/ace/getstream?id=b12bd6f32bbd53a2bbf182a30549fbdf747235cd
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #1 (m*)
-http://127.0.0.1:6878/ace/getstream?id=08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #2 (m*)
-http://127.0.0.1:6878/ace/getstream?id=0dcde887b5535bd4c19c8f565b945e37ffcab0ab
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #10 SIN EMISIÓN (a*)
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #1 SIN EMISIÓN (m*)
 http://127.0.0.1:6878/ace/getstream?id=
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #14 SIN EMISIÓN (j*)
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #2 SIN EMISIÓN (m*)
+http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 SIN EMISIÓN (a*)
+http://127.0.0.1:6878/ace/getstream?id=
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 SIN EMISIÓN (j*)
 http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1 group-title="M+ Deportes" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,ELLAS #V 720
 http://127.0.0.1:6878/ace/getstream?id=71e9e4c66a271ff58beb76792e01eeb6a1dde746
