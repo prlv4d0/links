@@ -124,13 +124,13 @@ http://127.0.0.1:6878/ace/getstream?id=4229d640fecf3c0897674241bcf851b67f4310e3
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.postimg.cc/dt8CsBmm/liga2.png" ,M+ LaLiga 2 720
 http://127.0.0.1:6878/ace/getstream?id=a92af592ba7f8f2f087ee34b91662db47705ca52
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" ,M+ LaLiga Smartbank 1080
-http://127.0.0.1:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccf
+http://127.0.0.1:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" ,M+ LaLiga Smartbank 720
-http://127.0.0.1:6878/ace/getstream?id=24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
+http://127.0.0.1:6878/ace/getstream?id=ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" ,M+ LaLiga Smartbank TV2 1080
-http://127.0.0.1:6878/ace/getstream?id=d475208e72b5a343080afa0724c7b7c42264b9a0
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" ,M+ LaLiga Smartbank TV3 720
-http://127.0.0.1:6878/ace/getstream?id=1000c018cf4afb7357f10e438e966d23340e4295
+http://127.0.0.1:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" ,M+ LaLiga Smartbank TV2 720
+http://127.0.0.1:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,M+ LaLiga TV BAR 1080
 http://127.0.0.1:6878/ace/getstream?id=01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,M+ LaLiga TV BAR 720
