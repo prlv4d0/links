@@ -1,1 +1,5 @@
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LALIGATV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,FC Cartagena - Eibar
+http://127.0.0.1:6878/ace/getstream?id=aa0a5fd60f197eae4e3fbedc1206378a0c226590
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SIN EMISIÓN
+http://127.0.0.1:6878/ace/getstream?id=1234567890123456789012345678901234567890
