@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SIN EMISIÓN
+http://127.0.0.1:6878/ace/getstream?id=1234567890123456789012345678901234567890
