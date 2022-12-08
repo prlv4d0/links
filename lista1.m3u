@@ -4,7 +4,7 @@ acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="4K" tvg-id="LA 1 HD" tvg-logo="https://i.postimg.cc/FzdPMFp5/tve4k.png" ,La 1 4K
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,Sin emisión
-acestream://72066549fbfd3f755853fe9467586b7debf01f60
+acestream://
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720
@@ -245,11 +245,13 @@ acestream://0f32c0131a2d9444996410801f4e18b04384db98
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 group-title="Otros idiomas" tvg-id="Eleven Sports 6 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png" ,Eleven Sports 6 PT
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports1.png" ,Setanta Sport 1
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports1.png" ,Setanta Sports 1080
+acestream://72066549fbfd3f755853fe9467586b7debf01f60
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports1.png" ,Setanta Sports 1
 acestream://b99278331ad806f1463fcd3bf53befa5530d86da
-#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports1.png" ,Setanta Sport 1
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports1.png" ,Setanta Sports 1
 acestream://8b70ef2d42e2adac57e90f68847eadfc356c04d2
-#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports2.png" ,Setanta Sport 2
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports2.png" ,Setanta Sports 2
 acestream://9b8feebaf07ced9351ad88da77ef617f82626c4b
-#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports2.png" ,Setanta Sport 2
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports2.png" ,Setanta Sports 2
 acestream://02ab7a40891a8cc1aa7e29e0eff279abc4a4188e
