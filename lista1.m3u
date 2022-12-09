@@ -55,6 +55,8 @@ acestream://7031601915e3d33893cb324c89055b91b9ec5574
 acestream://f3d0600f3a135c487f38a0ef9aa3d8beeb579671
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,En pruebas
 acestream://fd475e964f75f71737a53ab44a2af0f0dcda1709
+#EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/Y9fdmnqC/golmundial4k.png" ,Gol Mundial 4K
+acestream://fc138340e045615c18f678acd5d045aec7e630a8
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 1080 multiaudio
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 1080 multiaudio
