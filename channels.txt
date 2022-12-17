@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
-#EXTINF:-1 group-title="GOL Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial UHD
+#EXTINF:-1 group-title="GOL Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial 4K
 http://127.0.0.1:6878/ace/getstream?id=fc138340e045615c18f678acd5d045aec7e630a8
 #EXTINF:-1 group-title="GOL Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GMUNDI.png" ,Gol Mundial 1080
 http://127.0.0.1:6878/ace/getstream?id=3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
