@@ -41,9 +41,9 @@ acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
-#EXTINF:-1 group-title="Eventos del momento" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080 multiaudio
+#EXTINF:-1 group-title="Eventos del momento" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080 multi (inerte2)
 acestream://301fca45b02cc20927599e9c28797c4eb285c020
-#EXTINF:-1 group-title="Eventos del momento" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 multiaudio
+#EXTINF:-1 group-title="Eventos del momento" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 multi (inerte2)
 acestream://9d7847872dc7a44774a3b44f7a379220a7a1b024
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Sin emisión 3
 http://127.0.0.1:6878/ace/getstream?id=
