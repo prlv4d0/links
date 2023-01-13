@@ -235,3 +235,11 @@ acestream://8b70ef2d42e2adac57e90f68847eadfc356c04d2
 acestream://9b8feebaf07ced9351ad88da77ef617f82626c4b
 #EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports2.png" ,Setanta Sports 2
 acestream://02ab7a40891a8cc1aa7e29e0eff279abc4a4188e
+#EXTINF:-1 group-title="Supercopa" tvg-logo="https://i.postimg.cc/DzzVzM6K/supercopa.png" ,Supercopa 1080 multiaudio
+acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
+#EXTINF:-1 group-title="Supercopa" tvg-logo="https://i.postimg.cc/DzzVzM6K/supercopa.png" ,Supercopa 1080 multiaudio
+acestream://c1a176e0165da407199bb9f8fb3acc2aaab2d3d1
+#EXTINF:-1 group-title="Supercopa" tvg-logo="https://i.postimg.cc/DzzVzM6K/supercopa.png" ,Supercopa 1080
+acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07
+#EXTINF:-1 group-title="Supercopa" tvg-logo="https://i.postimg.cc/DzzVzM6K/supercopa.png" ,Supercopa 720
+acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
