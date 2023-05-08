@@ -135,6 +135,18 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55466&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55488&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ STB MAC (Pruebas)" tvg-id="TCM HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" ,TCM 1080
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55508&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="M+ STB MAC (Pruebas)" tvg-id="M+ DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" ,M+ Drama 1080
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55502&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="M+ STB MAC (Pruebas)" tvg-id="M+ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos 1080
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55504&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="M+ STB MAC (Pruebas)" tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" ,Historia
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="M+ STB MAC (Pruebas)" tvg-id="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" ,Nat Geo Wild 1080
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="M+ STB MAC (Pruebas)" tvg-id="NAT GEO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" ,National Geographic 1080
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="M+ STB MAC (Pruebas)" tvg-id="CANAL ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" ,Odisea
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
 
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça TV 720
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
