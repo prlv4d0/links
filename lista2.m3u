@@ -103,9 +103,27 @@ http://127.0.0.1:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
+#EXTINF:-1 group-title="EuroSport DRM (solo OTT)" tvg-id="EUROSPORT1HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 720p
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
 #EXTINF:-1 group-title="EuroSport DRM (solo OTT)" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 720p
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
+#EXTINF:-1 group-title="EuroSport DRM (solo OTT)" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 720p
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc-b-_pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
 
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Sin emisión 1
