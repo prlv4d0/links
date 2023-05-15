@@ -251,7 +251,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension
 http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30194&extension=ts&play_token=H9QHtyNjwN
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" ,Canal Cocina 1080p
 http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30212&extension=ts&play_token=r1nxRzEN75
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" ,DeCasa 720p
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" ,Canal Decasa 720p
 http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:D5:11:07&stream=145428&extension=ts&play_token=tKcebpKzfV
 
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça TV 720p
