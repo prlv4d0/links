@@ -139,10 +139,14 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55466&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55488&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="TCM HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" ,TCM 1080p
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55508&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ CLÁSICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos 576p
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:D5:11:07&stream=145382&extension=ts&play_token=Pk6acRDiT2
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" ,M+ Drama 1080p
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55502&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos 1080p
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55504&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" ,M+ Estrenos 2 576p
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:D5:11:07&stream=145350&extension=ts&play_token=0zWGX77Ic9
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+Cine Español" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" ,M+ Cine Ñ 576p
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55506&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" ,M+ Comedia 1080p
@@ -151,6 +155,8 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55500&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55496&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ SERIES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" ,M+ Series 1080p
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55484&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ SERIES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" ,M+ Series 2 576p
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:D5:11:07&stream=145397&extension=ts&play_token=HMEDBjMvKY
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" ,Historia 576p
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" ,Nat Geo Wild 1080p
@@ -163,6 +169,8 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension
 http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30194&extension=ts&play_token=H9QHtyNjwN
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" ,Canal Cocina 1080p
 http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30212&extension=ts&play_token=r1nxRzEN75
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" ,DeCasa 720p
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:D5:11:07&stream=145428&extension=ts&play_token=tKcebpKzfV
 
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça TV 720p
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
