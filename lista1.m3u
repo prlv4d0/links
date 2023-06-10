@@ -173,7 +173,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55500&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55502&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55504&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" ,M+ Estrenos
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" ,M+ Estrenos 2
 http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:D5:11:07&stream=145350&extension=ts&play_token=0zWGX77Ic9
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ SERIES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" ,M+ Series
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55484&extension=ts&play_token=ltn2GgE1z6
