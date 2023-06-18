@@ -285,12 +285,12 @@ http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/281773
 #EXTINF:-1 group-title="M+ UserPass" tvg-id="M+ Fest" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" ,M+ Fest
 http://658360882406321340.itvipmode.xyz:80/play/Noe230116/AANoe230116/321340.ts
 
+#EXTINF:-1 group-title="Otros contenidos" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,M+ #0
+http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="BARCA TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça TV
 http://127.0.0.1:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1 group-title="Otros contenidos" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-n-85.png" ,beIN SPORTS ñ
 http://127.0.0.1:6878/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
-#EXTINF:-1 group-title="Otros contenidos" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,M+ #0
-http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
 #EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://i.postimg.cc/BbXFprF3/tennis.png" ,Tennis Channel
 http://127.0.0.1:6878/ace/getstream?id=16089ab3f31a2756cf2ba6d507ff367cce14df83
