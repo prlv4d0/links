@@ -225,7 +225,7 @@ http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30250&extens
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55466&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" ,Canal Cocina
 http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30212&extension=ts&play_token=r1nxRzEN75
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" ,Decasa
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" ,Decasa (SIN EMISIÓN)
 http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:D5:11:07&stream=145428&extension=ts&play_token=tKcebpKzfV
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="COMEDYCENTRAL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" ,Comedy Central
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55468&extension=ts&play_token=ltn2GgE1z6
@@ -245,19 +245,23 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55479&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55496&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+Cine Español" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" ,M+ Cine Ñ
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55506&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ CLÁSICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:D5:11:07&stream=145382&extension=ts&play_token=Pk6acRDiT2
+#EXTINF:-1 group-title="M+ UserPass" tvg-id="M+ CLÁSICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos
+http://658360882406321314.itvipmode.xyz:80/play/Noe230116/AANoe230116/321314.ts
+#EXTINF:-1 group-title="M+ UserPass" tvg-id="M+ CLÁSICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos alt.
+http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/281773
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" ,M+ Comedia
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55500&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" ,M+ Drama
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55502&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" ,M+ Estrenos
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55504&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" ,M+ Estrenos 2
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" ,M+ Estrenos 2 (SIN EMISIÓN)
 http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:D5:11:07&stream=145350&extension=ts&play_token=0zWGX77Ic9
+#EXTINF:-1 group-title="M+ UserPass" tvg-id="M+ Fest" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" ,M+ Fest
+http://658360882406321340.itvipmode.xyz:80/play/Noe230116/AANoe230116/321340.ts
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ SERIES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" ,M+ Series
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55484&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ SERIES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" ,M+ Series 2
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ SERIES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" ,M+ Series 2 (SIN EMISIÓN)
 http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:D5:11:07&stream=145397&extension=ts&play_token=HMEDBjMvKY
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" ,MTV
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55618&extension=ts&play_token=ltn2GgE1z6
@@ -277,13 +281,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55508&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55492&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="XTRM" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/XTRM.png" ,XTRM
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=82274&extension=ts&play_token=ltn2GgE1z6
-
-#EXTINF:-1 group-title="M+ UserPass" tvg-id="M+ CLÁSICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos
-http://658360882406321314.itvipmode.xyz:80/play/Noe230116/AANoe230116/321314.ts
-#EXTINF:-1 group-title="M+ UserPass" tvg-id="M+ CLÁSICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos alt.
-http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/281773
-#EXTINF:-1 group-title="M+ UserPass" tvg-id="M+ Fest" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" ,M+ Fest
-http://658360882406321340.itvipmode.xyz:80/play/Noe230116/AANoe230116/321340.ts
 
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,M+ #0
 http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
