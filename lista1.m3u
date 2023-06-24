@@ -165,9 +165,9 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55479&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55496&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+Cine Español" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" ,M+ Cine Ñ
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55506&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="M+ UserPass" tvg-id="M+ CLÁSICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ CLÁSICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos
 http://658360882406321314.itvipmode.xyz:80/play/Noe230116/AANoe230116/321314.ts
-#EXTINF:-1 group-title="M+ UserPass" tvg-id="M+ CLÁSICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos alt.
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ CLÁSICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" ,M+ Clásicos alt.
 http://gamsgo.cyou:8080/xhevahir2022/bTUNuQxGfD64wgMZ/281773
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" ,M+ Comedia
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55500&extension=ts&play_token=ltn2GgE1z6
@@ -177,7 +177,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55502&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55504&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" ,M+ Estrenos 2 (SIN EMISIÓN)
 http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:D5:11:07&stream=145350&extension=ts&play_token=0zWGX77Ic9
-#EXTINF:-1 group-title="M+ UserPass" tvg-id="M+ Fest" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" ,M+ Fest
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ Fest" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" ,M+ Fest
 http://658360882406321340.itvipmode.xyz:80/play/Noe230116/AANoe230116/321340.ts
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ SERIES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" ,M+ Series
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55484&extension=ts&play_token=ltn2GgE1z6
