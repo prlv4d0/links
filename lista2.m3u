@@ -382,3 +382,5 @@ http://127.0.0.1:6878/ace/getstream?id=6787f3da55f10d25221f606226b0c5217cad62b3
 http://127.0.0.1:6878/ace/getstream?id=eee55e3af2ad492cc7cef9b8587f7b5a9b2ad565
 #EXTINF:0 group-title="Torrent2Acestream (Pruebas)" tvg-id="" tvg-logo="" ,Test#3
 http://127.0.0.1:6878/ace/getstream?id=c0f86bea2a21d84f24be2824a4ccd6cb9dad8ab3
+#EXTINF:0 group-title="Torrent2Acestream (Pruebas)" tvg-id="" tvg-logo="" ,Test#4
+http://127.0.0.1:6878/ace/getstream?id=e6d53415a4d5c4ce4aff27b3685b5c344699bee4
