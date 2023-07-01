@@ -217,6 +217,8 @@ http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55456&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="AMC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" ,AMC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55457&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="AMC BREAK" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" ,AMC Break
+http://45.139.122.199:80/play/live.php?mac=00:1a:79:AE:6C:8A&stream=473005&extension=ts&play_token=l5YgvW1vWt
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="AMC CRIME" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" ,AMC Crime
 http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30195&extension=ts&play_token=r1nxRzEN75
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="AXN HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" ,AXN
@@ -227,8 +229,12 @@ http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30250&extens
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55466&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" ,Canal Cocina
 http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30212&extension=ts&play_token=r1nxRzEN75
-#EXTINF:-1 group-title="M+ StbEmu" tvg-id="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" ,Decasa (SIN EMISIÓN)
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:D5:11:07&stream=145428&extension=ts&play_token=tKcebpKzfV
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" ,Caza y Pesca
+http://45.139.122.199:80/play/live.php?mac=00:1a:79:AE:6C:8A&stream=48691&extension=ts&play_token=Rx39CKdBjW
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" ,Decasa
+http://45.139.122.199:80/play/live.php?mac=00:1a:79:AE:6C:8A&stream=48705&extension=ts&play_token=OvU1NgikwX
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="DreamWorks HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" ,DreamWorks
+http://45.139.122.199:80/play/live.php?mac=00:1a:79:AE:6C:8A&stream=100156&extension=ts&play_token=kSCaqOefpW
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="COMEDYCENTRAL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" ,Comedy Central
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55468&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" ,Cosmo
@@ -243,6 +249,10 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55475&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="HOLLYWOOD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" ,Hollywood
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55479&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" ,Iberalia Tv
+http://45.139.122.199:80/play/live.php?mac=00:1a:79:AE:6C:8A&stream=100141&extension=ts&play_token=LDXn6aCdxq
+#EXTINF:-1 group-title="M+ StbEmu" tvg-id="La Resistencia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RESIST.png" ,La Resistencia
+http://45.139.122.199:80/play/live.php?mac=00:1a:79:AE:6C:8A&stream=473004&extension=ts&play_token=m0sTMwZUUf
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+ ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" ,M+ Acción
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55496&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="M+ StbEmu" tvg-id="M+Cine Español" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" ,M+ Cine Ñ
