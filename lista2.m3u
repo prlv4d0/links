@@ -130,11 +130,11 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
 
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas V" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,Ellas #V
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas V" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,M+ Ellas
 http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080p
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos" tvg-logo="https://i.postimg.cc/fLGkh8b5/vamos.png" ,M+ Vamos 1080p
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 720p
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Vamos" tvg-logo="https://i.postimg.cc/fLGkh8b5/vamos.png" ,M+ Vamos 720p
 http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080p
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
@@ -166,7 +166,7 @@ http://127.0.0.1:6878/ace/getstream?id=91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
 #EXTINF:-1 group-title="M+ LaLiga TV" tvg-id="M+ LALIGA TV 3" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" ,M+ LaLiga TV3
 http://127.0.0.1:6878/ace/getstream?id=4c4844564313e39a888f593511f299f5ba3cf929
 
-#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,M+ LaLiga TV BAR
+#EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-logo="https://i.postimg.cc/Ss2j5BmJ/laligabar.png" ,M+ LaLiga TV BAR
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 group-title="M+ LaLiga TV Hypermotion" tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://i.postimg.cc/htb5kN6y/liga-hypermotion.png" ,M+ LaLiga TV Hypermotion 1080p
