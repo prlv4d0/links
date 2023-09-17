@@ -42,6 +42,15 @@ http://127.0.0.1:6878/ace/getstream?id=93d663e92a93845b11c9831885646fa39ba1ed66
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LALIGA 2" tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png" ,DAZN LaLiga 2 720p
 http://127.0.0.1:6878/ace/getstream?id=0950c37fe1ea817fc561c611ae943d58505f7a79
 
+#EXTINF:-1 group-title="DAZN Liga F" tvg-id="" tvg-logo="" ,DAZN Liga F
+http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title="DAZN Liga F" tvg-id="" tvg-logo="" ,DAZN Liga F 2
+http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 group-title="DAZN Liga F" tvg-id="" tvg-logo="" ,DAZN Liga F 3
+http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1 group-title="DAZN Liga F" tvg-id="" tvg-logo="" ,DAZN Liga F 4
+http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
+
 #EXTINF:-1 group-title="ESPN Colombia" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-co-1258.png" ,ESPN Colombia
 http://127.0.0.1:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 #EXTINF:-1 group-title="ESPN Colombia" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nl-espn-extra-2507.png" ,ESPN Extra Colombia
