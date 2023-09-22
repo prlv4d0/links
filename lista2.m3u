@@ -2,14 +2,10 @@
 
 #EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/MG3Vc2xT/elevensports14k.png" ,Eleven Sports 1 (Polonia)
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" ,DAZN F1
+#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" ,DAZN F1 4K (solo eventos)
 http://127.0.0.1:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
-#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" ,DAZN F1 alt.
-http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
-#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" ,M+ LaLiga TV
-http://127.0.0.1:6878/ace/getstream?id=be071f7a5977de40f8f024a8ae582e799a6c4b8c
-#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" ,M+ LaLiga TV alt.
-http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" ,M+ LaLiga TV UHD (solo eventos)
+http://127.0.0.1:6878/ace/getstream?id=8286183314d367940409b760bbf887f3fb923f60
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://i.postimg.cc/GmVXhmvs/dazn1.png" ,DAZN 1 1080p
 http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
