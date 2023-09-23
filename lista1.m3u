@@ -6,6 +6,8 @@ acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 acestream://eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 #EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" ,M+ LaLiga TV UHD (solo eventos)
 acestream://8286183314d367940409b760bbf887f3fb923f60
+#EXTINF:-1 group-title="4K UHD" tvg-id="" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" ,M+ LaLiga TV UHD alt.
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://i.postimg.cc/GmVXhmvs/dazn1.png" ,DAZN 1 1080p
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
